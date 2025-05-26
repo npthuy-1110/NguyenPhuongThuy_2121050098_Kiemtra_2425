@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KiemtradiemB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4744bd8f5577ad03d3a572ed8804294f56b567a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1973269093269d06abd6928c33f9520139177c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("KiemtradiemB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KiemtradiemB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
