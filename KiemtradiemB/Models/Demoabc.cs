@@ -1,8 +1,9 @@
+using System.ComponentModel.DataAnnotations;
 namespace KiemtradiemB;
 public class Demoabc
 {
-[KEY]
+[Key]
     public int PesonId { get; set; }
     public string Fullname { get; set;}
-    public double Diem { get ; set;}
+    public Double Diem { get ; set;}
 }
